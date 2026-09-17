@@ -3,4 +3,3 @@ __pycache__/
 .env
 *.pyc
 checkpoints.sqlite
-traza_ejecucion.json
